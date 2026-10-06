@@ -1,0 +1,13 @@
+{
+  "name": "openpost",
+  "version": "1.0.0",
+  "description": "Draft and review social posts through OpenPost, then schedule or publish with explicit approval.",
+  "author": {
+    "name": "OpenPost",
+    "email": "openpost@rgo.pt"
+  },
+  "homepage": "https://openpo.st",
+  "repository": "https://github.com/getopenpost/openpost-agent-plugin",
+  "license": "AGPL-3.0-only",
+  "keywords": ["openpost", "social-publishing", "content-review"]
+}

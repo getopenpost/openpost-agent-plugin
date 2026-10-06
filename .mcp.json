@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "openpost": {
+      "type": "http",
+      "url": "https://app.openpo.st/mcp"
+    }
+  }
+}
